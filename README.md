@@ -21,7 +21,7 @@ The lab setup includes:
 - **Mimikatz**: For simulating credential access attacks.
 - **Windows & Ubuntu VMs**: As endpoint hosts to simulate attacks and log ingestion.
 
-![Architecture Diagram](images/architecture_diagram.png)
+![Architecture Diagram](https://github.com/al9ghazi4/SOC-Automation-/blob/main/Untitled%20Diagram.drawio.png)
 
 ---
 
