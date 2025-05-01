@@ -70,20 +70,6 @@ The lab setup includes:
 > Learn more: [Mimikatz GitHub](https://github.com/gentilkiwi/mimikatz), [MITRE ATT&CK T1003](https://attack.mitre.org/techniques/T1003/)
 - Confirm detection by Wazuh and trigger workflow in Shuffle.
 
----
-
-## 🔁 Workflow Example
-
-```json
-{
-  "trigger": "critical_alert",
-  "actions": [
-    "Run VirusTotal scan",
-    "Create case in TheHive",
-    "Notify analyst via email"
-  ]
-}
-```
 
 ---
 
