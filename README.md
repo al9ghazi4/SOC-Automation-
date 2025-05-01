@@ -17,7 +17,7 @@ The lab setup includes:
 - **Wazuh**: For log collection and security monitoring.
 - **TheHive**: For case management and threat intelligence triage.
 - **Shuffle**: For workflow orchestration and automated response.
-- **Sysmon**: For detailed endpoint telemetry on Windows 10.
+- **Sysmon**: For detailed endpoint telemetry on Windows 11.
 - **Mimikatz**: For simulating credential access attacks.
 - **Windows & Ubuntu VMs**: As endpoint hosts to simulate attacks and log ingestion.
 
@@ -26,8 +26,6 @@ The lab setup includes:
 ---
 
 ## 🧰 Tools Used
-
-**Mimikatz  | Credential Dumping Simulation**
 
 | Tool      | Purpose                                 |
 |-----------|------------------------------------------|
@@ -94,6 +92,10 @@ The lab setup includes:
 - ![Wazuh Dashboard](images/sample_screenshots/wazuh_dashboard.png)
 - ![TheHive Case View](images/sample_screenshots/thehive_case.png)
 - ![Shuffle Workflow](images/sample_screenshots/shuffle_flow.png)
+- ![Sysmon Event Captured](images/sample_screenshots/Screenshot_2025-04-25_231417.png)
+- ![Cortex Analysis](images/sample_screenshots/Screenshot_2025-04-27_214113.png)
+- ![Alert Triggered in Shuffle](images/sample_screenshots/Screenshot_2025-04-27_211953.png)
+- ![Detection Summary](images/sample_screenshots/Screenshot_2025-04-25_233605.png)
 
 ---
 
