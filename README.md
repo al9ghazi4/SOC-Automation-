@@ -75,14 +75,7 @@ The lab setup includes:
 
 ## 📷 Screenshots
 
-- ![Wazuh Dashboard](images/sample_screenshots/wazuh_dashboard.png)
-- ![TheHive Case View](images/sample_screenshots/thehive_case.png)
-- ![Shuffle Workflow](images/sample_screenshots/shuffle_flow.png)
-- ![Sysmon Event Captured](images/sample_screenshots/Screenshot_2025-04-25_231417.png)
-- ![Cortex Analysis](images/sample_screenshots/Screenshot_2025-04-27_214113.png)
-- ![Alert Triggered in Shuffle](images/sample_screenshots/Screenshot_2025-04-27_211953.png)
-- ![Detection Summary](images/sample_screenshots/Screenshot_2025-04-25_233605.png)
-
+- https://drive.google.com/drive/folders/1IPDgSK79i8l1C6-YZFypaQtOZk3ypHG2?usp=drive_link
 ---
 
 ## 🧠 Skills Practiced
